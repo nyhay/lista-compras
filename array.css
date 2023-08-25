@@ -11,4 +11,5 @@ button{
     border-color: rgb(248, 7, 7);
     border-radius: 30px;
     background-color: rgb(255, 249, 249);
+    font-size: medium;
 }
